@@ -43,3 +43,4 @@ Built using **Java AWT**, **Swing**, and **Graphics2D**, this app provides smoot
 ├── DrawingApp.java <br>
 ├── README.md <br>
 └── assets
+<p>⭐ If you like this project, please give it a star!</p>
